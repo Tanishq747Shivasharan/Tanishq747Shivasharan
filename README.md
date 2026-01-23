@@ -1,4 +1,4 @@
-<h2 align=center>Identify me as Tanishq Shivasharan</h2>
+<h2 align=center>Identify me as <span style="color:#00bfff;">Tanishq Shivasharan</span></h2>
 <p align=center><i>Building systems. Breaking systems. Learning daily.</i></p>
 
 ### Who am I
