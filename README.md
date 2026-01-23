@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align=center>Identify me as Tanishq Shivasharan</h1>
+<p align=center><i>Building systems. Breaking systems. Learning daily.</i></p>
 
-<!--
-**Tanishq747Shivasharan/Tanishq747Shivasharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who I Am
+- Vigilant Cybersecurity Developer & Ethical Hacker
+- Exploring cybersecurity, backend engineering and cloud computing 
+- Obsessed with building real-world projects, exploting web tech, not just tutorials.
+- > building things that work
+- > breaking things to understand them
 
-Here are some ideas to get you started:
+### 🔬 Active Projects
+- JS_PY-Fun — security practice platform  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub
+![Stats](https://github-readme-stats.vercel.app/api?username=tanishq747shivasharan&show_icons=true&hide_border=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishq747shivasharan&layout=compact&theme=radical)
