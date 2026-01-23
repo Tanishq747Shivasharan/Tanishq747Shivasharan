@@ -1,4 +1,4 @@
-<h2 align=center>Identify me as ![Tanishq](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=35&duration=1&pause=999999&color=00FF99&center=true&vCenter=true&width=500&lines=Tanishq+Shivasharan)</h2>
+<h2 align=center>Identify me as Tanishq Shivasharan</h2>
 <p align=center><i>Building systems. Breaking systems. Learning daily.</i></p>
 
 ### Who am I
