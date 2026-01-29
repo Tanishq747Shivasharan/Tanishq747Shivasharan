@@ -25,6 +25,4 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Networking;Cybersecurity+Learner;Open+Source+Enthusiast&center=true&width=500&height=50">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=42F725&width=435&lines=This+is+me+Tanishq)](https://git.io/typing-svg)
-
 > 💡 “Code daily. Break things. Learn faster.”
