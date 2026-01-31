@@ -12,7 +12,7 @@
 <img align="right" src="github profile.png" width="260">
 
 ### 📈 GitHub
-![My GitHub Stats](https://github-readme-stats-p1yj82nl9.vercel.app/api?username=tanishq747Shivasharan)
+![My GitHub Stats](https://github-readme-stats-two-lyart-80.vercel.app/api?username=tanishq747shivasharan&show_icons=true&theme=tokyonight&cache_seconds=86400&v=3)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishq747shivasharan&layout=compact&theme=radical)
 
