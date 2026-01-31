@@ -14,7 +14,7 @@
 ### 📈 GitHub
 ![My GitHub Stats](https://github-readme-stats-two-lyart-80.vercel.app/api?username=tanishq747shivasharan&show_icons=true&theme=tokyonight&cache_seconds=86400&v=3)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishq747shivasharan&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-two-lyart-80.vercel.app/api/top-langs/?username=tanishq747shivasharan&layout=compact&theme=tokyonight)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
