@@ -7,7 +7,7 @@
 
 ### 🔬 Active Projects
 - JS_PY-Fun — security practice platform
-- SentinelExam - Secure Proctored Exams 
+- Client-Side-Scripting  
 
 <img align="right" src="github profile.png" width="260">
 
