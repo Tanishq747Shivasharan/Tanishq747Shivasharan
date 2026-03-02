@@ -7,7 +7,8 @@
 
 ### 🔬 Active Projects
 - JS_PY-Fun — security practice platform
-- Client-Side-Scripting  
+- Client-Side-Scripting
+- VIGIL An End-to-End cybersecurity suite from mobile network scans to web-application integration.
 
 <img align="right" src="github profile.png" width="260">
 
