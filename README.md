@@ -7,7 +7,6 @@
 
 ### 🔬 Active Projects
 - JS_PY-Fun — security practice platform
-- Client-Side-Scripting
 - MCP_workbench
 
 <img align="right" src="github profile.png" width="260">
