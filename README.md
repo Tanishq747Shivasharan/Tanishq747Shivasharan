@@ -6,7 +6,7 @@
 
 
 ### 🔬 Active Projects
-- JS_PY-Fun — security practice platform
+- JS_PY-Fun — Python learning + security practice platform 
 
 <img align="right" src="github profile.png" width="260">
 
