@@ -48,4 +48,15 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Networking;Cybersecurity+Learner;Open+Source+Enthusiast&center=true&width=500&height=50">
 </p>
 
+<h2 align="center"> Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tanishq-shivasharan-1120a0233/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="tanishqshivasharan747@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 > 💡 “Code daily. Break things. Learn faster.”
