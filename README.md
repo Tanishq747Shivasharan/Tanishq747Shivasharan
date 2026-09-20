@@ -8,6 +8,8 @@
 ### 🔬 Active Projects
 - JS_PY-Fun — Python learning + security practice platform
 - DSA-in-C/C++ with strivers-a2z-dsa-course
+- Anomex - DBACM with ML powered anomaly detection
+- NetForge - firewall rule set manager
 
 <img align="right" src="github profile.png" width="260">
 
