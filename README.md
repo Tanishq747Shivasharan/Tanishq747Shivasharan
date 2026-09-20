@@ -5,21 +5,42 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=400&color=67FF61&multiline=true&width=1100&height=123&lines=Vigilant+Cybersecurity+Developer+%26+Ethical+Hacker;Exploring+cybersecurity%2C+backend+engineering+and+cloud+computing;Obsessed+with+building+real-world+projects%2C+exploting+web+tech%2C+not+just+tutorials;building+things+that+work+breaking+things+to+understand+them)](https://git.io/typing-svg)
 
 
-### 🔬 Active Projects
+###  Hall of Builds
 - JS_PY-Fun — Python learning + security practice platform
 - DSA-in-C/C++ with strivers-a2z-dsa-course
-- Anomex - DBACM with ML powered anomaly detection
-- NetForge - firewall rule set manager
+- Anomex - DBACM with ML powered anomaly detection [View Project](https://github.com/krantiingle07/Anomex.git)
+- NetForge - firewall rule set manager [View Project](https://github.com/AyushBage/NetForge.git)
 
 <img align="right" src="github profile.png" width="260">
 
-### 📈 GitHub
+###  GitHub
 ![My GitHub Stats](https://github-readme-stats-two-lyart-80.vercel.app/api?username=tanishq747shivasharan&show_icons=true&theme=tokyonight&cache_seconds=86400&v=3)
 
 ![Top Languages](https://github-readme-stats-two-lyart-80.vercel.app/api/top-langs/?username=tanishq747shivasharan&layout=compact&theme=tokyonight)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+##  Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,sql" />
+</p>
+
+### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb" />
+</p>
+
+### Tools & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,aws" />
+</p>
+
+### Cybersecurity
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,kali,wireshark" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/John%20the%20Ripper-000000?style=for-the-badge&logo=gnu&logoColor=white" />
+</p>
 
 <br clear="right"/>
 
