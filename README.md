@@ -20,27 +20,54 @@
 
 ##  Tech Stack
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,sql" />
+<table>
+<tr>
+<td width="50%" valign="top">
+
+###  Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
 </p>
 
-### Backend & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb" />
+</td>
+
+<td width="50%" valign="top">
+
+###  Backend & Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb" />
 </p>
 
-### Tools & Infrastructure
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,aws" />
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+###  Tools & Infrastructure
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=linux,git,github,docker,aws" />
 </p>
 
-### Cybersecurity
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,kali,wireshark" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/John%20the%20Ripper-000000?style=for-the-badge&logo=gnu&logoColor=white" />
+</td>
+
+<td width="50%" valign="top">
+
+###  Cybersecurity
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=kali" />
+<br><br>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/John%20the%20Ripper-000000?style=for-the-badge" />
 </p>
+
+</td>
+</tr>
+</table>
 
 <br clear="right"/>
 
